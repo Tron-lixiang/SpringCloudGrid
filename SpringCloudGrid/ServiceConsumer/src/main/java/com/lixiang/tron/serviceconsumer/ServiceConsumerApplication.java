@@ -1,4 +1,4 @@
-package com.lixiang.tron.serviceprovideralpha;
+package com.lixiang.tron.serviceconsumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class ServiceProviderAlphaApplication {
+public class ServiceConsumerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ServiceProviderAlphaApplication.class, args);
+        SpringApplication.run(ServiceConsumerApplication.class, args);
     }
 
 }
