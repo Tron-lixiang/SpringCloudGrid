@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/SpringCloudGrid/EurekaServer/pom.xml" />
         <option value="$PROJECT_DIR$/SpringCloudGrid/EurekaServer-01/pom.xml" />
         <option value="$PROJECT_DIR$/SpringCloudGrid/EurekaServer-02/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudGrid/ServiceConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudGrid/ServiceProvider-Alpha/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,14 +7,24 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaserver" />
+        <module name="EurekaServer_02" />
+        <module name="EurekaServer_01" />
         <module name="EurekaServer-02" />
+        <module name="EurekaServer_00" />
         <module name="EurekaServer-01" />
+        <module name="ServiceProviderAlpha" />
+        <module name="ServiceConsumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eurekaserver" target="1.8" />
       <module name="EurekaServer-01" target="1.8" />
       <module name="EurekaServer-02" target="1.8" />
+      <module name="EurekaServer_00" target="1.8" />
+      <module name="EurekaServer_01" target="1.8" />
+      <module name="EurekaServer_02" target="1.8" />
+      <module name="ServiceConsumer" target="1.8" />
+      <module name="ServiceProviderAlpha" target="1.8" />
       <module name="SpringCloudGrid" target="1.8" />
     </bytecodeTargetLevel>
   </component>

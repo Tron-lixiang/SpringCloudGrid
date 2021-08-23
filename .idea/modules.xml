@@ -4,6 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringCloudGrid/EurekaServer-01/EurekaServer-01.iml" filepath="$PROJECT_DIR$/SpringCloudGrid/EurekaServer-01/EurekaServer-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloudGrid/EurekaServer-02/EurekaServer-02.iml" filepath="$PROJECT_DIR$/SpringCloudGrid/EurekaServer-02/EurekaServer-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudGrid/EurekaServer/EurekaServer_00.iml" filepath="$PROJECT_DIR$/SpringCloudGrid/EurekaServer/EurekaServer_00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudGrid/EurekaServer-01/EurekaServer_01.iml" filepath="$PROJECT_DIR$/SpringCloudGrid/EurekaServer-01/EurekaServer_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudGrid/EurekaServer-02/EurekaServer_02.iml" filepath="$PROJECT_DIR$/SpringCloudGrid/EurekaServer-02/EurekaServer_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudGrid/ServiceConsumer/ServiceConsumer.iml" filepath="$PROJECT_DIR$/SpringCloudGrid/ServiceConsumer/ServiceConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudGrid/ServiceProvider-Alpha/ServiceProviderAlpha.iml" filepath="$PROJECT_DIR$/SpringCloudGrid/ServiceProvider-Alpha/ServiceProviderAlpha.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloudGrid/SpringCloudGrid.iml" filepath="$PROJECT_DIR$/SpringCloudGrid/SpringCloudGrid.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloudGrid/EurekaServer/eurekaserver.iml" filepath="$PROJECT_DIR$/SpringCloudGrid/EurekaServer/eurekaserver.iml" />
     </modules>
