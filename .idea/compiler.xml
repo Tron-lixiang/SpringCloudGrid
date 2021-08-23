@@ -12,12 +12,19 @@
         <module name="EurekaServer-02" />
         <module name="EurekaServer_00" />
         <module name="EurekaServer-01" />
+        <module name="ZuulProxy" />
         <module name="ServiceProviderAlpha" />
+        <module name="eurekaserver (2)" />
+        <module name="eurekaserver (3)" />
         <module name="ServiceConsumer" />
+        <module name="eurekaserver (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eurekaserver" target="1.8" />
+      <module name="eurekaserver (1)" target="1.8" />
+      <module name="eurekaserver (2)" target="1.8" />
+      <module name="eurekaserver (3)" target="1.8" />
       <module name="EurekaServer-01" target="1.8" />
       <module name="EurekaServer-02" target="1.8" />
       <module name="EurekaServer_00" target="1.8" />
@@ -26,6 +33,12 @@
       <module name="ServiceConsumer" target="1.8" />
       <module name="ServiceProviderAlpha" target="1.8" />
       <module name="SpringCloudGrid" target="1.8" />
+      <module name="ZuulProxy" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ZuulProxy" options="" />
+    </option>
   </component>
 </project>
